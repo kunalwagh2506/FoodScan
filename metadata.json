@@ -1,0 +1,6 @@
+{
+  "name": "FoodScan AI",
+  "description": "AI-Powered Food Quality, Nutrition, Health Impact & Safety Monitoring System for packaged food and college canteen meals.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
